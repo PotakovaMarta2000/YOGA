@@ -1,3 +1,4 @@
+// Прописала табы
 window.addEventListener('DOMContentLoaded', function() {
 
     'use strict';
